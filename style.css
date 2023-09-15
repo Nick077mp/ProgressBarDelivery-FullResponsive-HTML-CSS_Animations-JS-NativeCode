@@ -66,11 +66,6 @@
 
 }
 
-.wrapper:hover .card {
-  animation: animate 15s linear infinite; /* Agregar la animación cuando el mouse pase por encima */
-  pointer-events: auto;
-  opacity: 1;
-}
 
 
 /*Cards Animation Top*/
